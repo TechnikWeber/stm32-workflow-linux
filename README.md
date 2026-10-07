@@ -1377,3 +1377,7 @@ Zeitbasis prüfen: Läuft der Tick-Timer/SysTick? Bei exotischen Takten
 (sehr niedrige Frequenzen) die generierte Timebase-Berechnung
 kontrollieren — Standardformeln setzen ≥ 1 MHz voraus
 (Datei stm32g0xx_hal_timebase_tim.c).
+
+## Lizenz
+
+[MIT](LICENSE).
